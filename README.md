@@ -1,2 +1,3 @@
-# personal-notes
-Personal learning notes and small daily updates
+# Learning Journal
+
+This repository is used to keep small notes and track daily learning progress.
