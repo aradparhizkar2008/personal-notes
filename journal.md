@@ -8,3 +8,6 @@ Learning how to make simple updates and getting more comfortable with GitHub.
 
 ### Day 3
 Continuing daily updates and getting used to making small changes.
+
+### Day 4
+Keeping up with daily updates and building a simple routine on GitHub.
