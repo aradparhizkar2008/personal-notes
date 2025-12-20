@@ -11,3 +11,6 @@ Continuing daily updates and getting used to making small changes.
 
 ### Day 4
 Keeping up with daily updates and building a simple routine on GitHub.
+
+### Day 5
+Continuing the routine and making another small daily update.
