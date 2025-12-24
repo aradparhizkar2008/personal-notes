@@ -17,3 +17,6 @@ Continuing the routine and making another small daily update.
 
 ### Day 6
 Statying consistent with daily notes and keeping things simple.
+
+### Day 7
+Maintaining consistency and continuing small daily updates.
