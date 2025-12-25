@@ -20,3 +20,6 @@ Statying consistent with daily notes and keeping things simple.
 
 ### Day 7
 Maintaining consistency and continuing small daily updates.
+
+### Day 8
+Continuing daily updates and keeping a steady habit.
