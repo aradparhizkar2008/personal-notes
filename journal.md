@@ -35,3 +35,6 @@ Staying consistent and continuing simple daily progress.
 
 ### Day 12
 Keeping up with daily updates and maintaining a steady routine.
+
+### Day 13
+Continuing daily updates and keeping the habit consistent.
