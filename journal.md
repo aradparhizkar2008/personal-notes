@@ -51,5 +51,5 @@ Keeping the daily routine steady and making another simple update.
 ### Day 17
 Continuing with daily updates and keeping the process consistent.
 
-### Day 17
-Continuing with daily updates and keeping the process consistent.
+### Day 18
+Maintaining daily updates and keeping the habit consistent.
